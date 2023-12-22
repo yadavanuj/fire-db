@@ -1,4 +1,4 @@
-package com.pravisht.firedb.protocol;
+package com.github.yadavanuj.firedb.protocol;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

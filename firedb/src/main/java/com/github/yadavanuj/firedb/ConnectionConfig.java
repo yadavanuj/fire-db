@@ -1,4 +1,4 @@
-package com.pravisht.firedb;
+package com.github.yadavanuj.firedb;
 
 import lombok.Builder;
 import lombok.Getter;

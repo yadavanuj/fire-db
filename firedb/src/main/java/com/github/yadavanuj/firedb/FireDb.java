@@ -1,7 +1,7 @@
-package com.pravisht.firedb;
+package com.github.yadavanuj.firedb;
 
-import com.pravisht.firedb.protocol.FireDbException;
-import com.pravisht.firedb.protocol.Packet;
+import com.github.yadavanuj.firedb.protocol.FireDbException;
+import com.github.yadavanuj.firedb.protocol.Packet;
 import lombok.Builder;
 import lombok.Getter;
 import org.javatuples.Pair;
